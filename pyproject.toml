@@ -1,0 +1,14 @@
+[project]
+name = "grpo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "0>=0.0.0",
+    "active>=0.0.5a0",
+    "openai>=1.109.1",
+    "reasoning>=0.1.0",
+    "reasoning-gym>=0.1.23",
+    "requests>=2.32.5",
+]
