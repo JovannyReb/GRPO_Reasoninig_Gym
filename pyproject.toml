@@ -11,4 +11,7 @@ dependencies = [
     "reasoning>=0.1.0",
     "reasoning-gym>=0.1.23",
     "requests>=2.32.5",
+    "rich>=14.1.0",
+    "torch>=2.8.0",
+    "transformers>=4.56.2",
 ]
